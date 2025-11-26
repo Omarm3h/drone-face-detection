@@ -413,9 +413,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **PX4 Autopilot Team**: For the excellent flight controller
+- **Tuwaiq Academy** — for technical training, structured support, and enabling applied learning in advanced technologies.
 - **Ultralytics**: For YOLOv8 object detection
 - **ROS2 Community**: For the robotics middleware
 - **Gazebo Team**: For the simulation platform
+  
 
 ---
 
