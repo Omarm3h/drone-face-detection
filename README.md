@@ -429,11 +429,7 @@ Project Link: [https://github.com/YOUR_USERNAME/drone-face-detection](https://gi
 
 ---
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/drone-face-detection&type=Date)](https://star-history.com/#YOUR_USERNAME/drone-face-detection&Date)
-
----
 
 ## 📈 Future Enhancements
 
