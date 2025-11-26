@@ -29,9 +29,6 @@ This project demonstrates an autonomous drone system capable of:
 - **Mission planning** with zigzag search patterns
 - **Gazebo simulation** with realistic urban environment
 
-### Demo Video
-
-[Link to demo video if available]
 
 ---
 
