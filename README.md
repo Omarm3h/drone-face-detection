@@ -160,7 +160,7 @@ pip3 install ultralytics opencv-python torch torchvision mavsdk matplotlib --bre
 
 ```bash
 cd ~
-git clone https://github.com/YOUR_USERNAME/drone-face-detection.git
+git clone https://github.com/Omarm3h/drone-face-detection.git
 cd drone-face-detection
 ```
 
