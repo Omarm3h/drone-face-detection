@@ -425,8 +425,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Omarm3h** - - Omarm3h@icloud.com
 
-Project Link: [https://github.com/YOUR_USERNAME/drone-face-detection](https://github.com/Omarm3h/drone-face-detection)
-
 ---
 
 
